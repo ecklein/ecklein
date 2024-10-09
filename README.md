@@ -1,16 +1,13 @@
-Hello! I'm @ecklein and I have a background in computer science and applied mathematics. I have previous work experience within finance working as a quantitative researcher across different asset classes. 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<!--
-**ecklein/ecklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Ethan Klein
 
-Here are some ideas to get you started:
+Hello! I'm @ecklein and I have a background in computer science and applied mathematics. I have previous work experience within finance working as a quantitative researcher across different asset classes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - 🔭 I’m currently working on quantitative modeling.
+  - 🌱 I’m currently learning; Rust, AI, and HPC.
+
+<h3 align="left">Connect with me:</h3>
+[Twitter](https://x.com/ethan_bot)
+[Email](mailto:ethan.kleinc@gmail.com)
+------
