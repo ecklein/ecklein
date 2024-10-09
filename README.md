@@ -8,6 +8,9 @@ Hello! I'm @ecklein and I have a background in computer science and applied math
   - 🌱 I’m currently learning; Rust, AI, and HPC.
 
 <h3 align="left">Connect with me:</h3>
+
 [Twitter](https://x.com/ethan_bot)
+
 [Email](mailto:ethan.kleinc@gmail.com)
+
 ------
