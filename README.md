@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello! I'm @ecklein and I have a background in computer science and applied mathematics. I have previous work experience within finance working as a quantitative researcher across different asset classes. 
 
 <!--
 **ecklein/ecklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
