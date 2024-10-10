@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello, I'm Ethan Klein
+### Welcome!
 
 Hello! I'm @ecklein and I have a background in computer science and applied mathematics. I have previous work experience within finance working as a quantitative researcher across different asset classes.
 
