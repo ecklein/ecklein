@@ -5,7 +5,7 @@
 Hello! I'm @ecklein and I have a background in computer science and applied mathematics. I have previous work experience within finance working as a quantitative researcher across different asset classes.
 
   - 🔭 I’m currently working on quantitative modeling.
-  - 🌱 I’m currently learning; Rust, AI, and HPC.
+  - 🌱 I’m currently learning; Rust, ML, and HPC.
 
 <h3 align="left">Connect with me:</h3>
 
