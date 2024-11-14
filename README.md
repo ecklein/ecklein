@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-Hello! I'm @ecklein and I have a background in computer science and applied mathematics. I have previous work experience within quantitative finance working as a quantitative researcher & developer across different asset classes, mainly equities and crypto (derivs). I've worked within a variety of programming languages, ranging from Python to Rust. I have a masters in applied math and a bachelors in cs.
+Hello, I'm @ecklein! I have a background in computer science and applied mathematics. My experience spans quantitative research and development in finance, where I've worked across various asset classes, especially equities and crypto derivatives. I'm skilled in a range of programming languages, from Python to Rust, and hold a Master’s in Applied Mathematics and a Bachelor’s in Computer Science.
 
   - 🔭 I’m currently working on quantitative modeling and DeFi research.
   - 🌱 I’m currently learning; Rust, ML, and HPC.
