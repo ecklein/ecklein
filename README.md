@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-Hello, I'm @ecklein! I hold a Master’s in Applied Mathematics and a Bachelor’s in Computer Science and have background utilizing both academically and professionally. My experience spans quantitative research and development in finance, where I've worked across various domains, particular systematic equity L/S and crypto HFT.
+Hello, I'm @ecklein! I hold a Master’s in Applied Mathematics and a Bachelor’s in Computer Science and have background utilizing both academically and professionally. My experience spans quantitative research and development in finance, where I've worked across various domains including systematic equity L/S and crypto HFT.
 
   - 🔭 I’m currently working on quantitative modeling and DeFi research.
   - 🌱 I’m currently learning; Rust, ML, and HPC.
