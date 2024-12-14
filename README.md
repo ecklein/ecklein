@@ -4,8 +4,10 @@
 
 Hello, I'm @ecklein! I hold a master’s in Applied Mathematics, a bachelor’s in Computer Science and have a background utilizing both academically and professionally. My experience spans quantitative research and software engineering in finance, where I've worked across various domains including systematic equity L/S and crypto HFT.
 
-  - 🔭 I’m currently working on quantitative modeling and DeFi research.
-  - 🌱 I’m currently learning; Rust, ML, HPC & systems engineering.
+I'm currently a graduate student at Columbia University in New York, NY.
+
+  - 🔭 I’m currently working on various technical topics in domains such as artificial intelligence, quantitative modeling and DeFi research.
+  - 🌱 I’m currently learning; AI, Rust, ML, HPC & systems engineering.
 
 <h3 align="left">Connect with me:</h3>
 
