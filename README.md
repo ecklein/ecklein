@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-Hello, I'm @ecklein! I hold a master’s in Applied Mathematics, a bachelor’s in Computer Science and have a background utilizing both academically and professionally. My experience spans quantitative research and software engineering in finance, where I've worked across various domains including systematic equity L/S and crypto HFT.
+Hello, I'm @ecklein! I hold a master’s in Applied Mathematics, a bachelor’s in Computer Science and have a background utilizing both academically and professionally. My experience spans quantitative research and development in finance, where I've worked across various domains including systematic equity L/S and crypto HFT.
 
 I'm currently a graduate student at Columbia University in New York, NY studying CS.
 
