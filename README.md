@@ -11,7 +11,7 @@ I'm currently pursuing graduate studies in Computer Science at Columbia Universi
 
 <h3 align="left">Connect with me:</h3>
 
-[Twitter](https://x.com/ethan_bot)
+[Twitter](https://x.com/ethklein)
 
 [Email](mailto:ethan.kleinc@gmail.com)
 
